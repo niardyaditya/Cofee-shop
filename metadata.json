@@ -1,0 +1,7 @@
+{
+  "name": "Starbucks Botanical Reserve",
+  "description": "Experience artisanal botanical beverages, interactive drag-and-drop beverage design studio, real-time drink customization, and seamless ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
